@@ -1,4 +1,4 @@
-# AI-powered-Resume-Screening-and-Ranking-System 💻💻🚩
+# AI-powered-Resume-Screening-and-Ranking-System using python project description 💻💻🚩
 
 **Project Title:** AI-Powered Resume Screening and Ranking System
 
